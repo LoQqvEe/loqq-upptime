@@ -4,7 +4,7 @@
     "url": "https://orcabot.in.th",
     "icon": "https://icons.duckduckgo.com/ip3/orcabot.in.th.ico",
     "slug": "orca-bot-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1299,
     "timeYear": 1302,
     "dailyMinutesDown": {
+      "2024-12-13": 0,
       "2024-09-18": 28
     }
   }
