@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/orcabot.in.th.ico",
     "slug": "orca-bot-website",
     "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.75%",
-    "time": 714,
-    "timeDay": 626,
-    "timeWeek": 791,
-    "timeMonth": 805,
-    "timeYear": 666,
+    "uptime": "99.74%",
+    "uptimeDay": "21.64%",
+    "uptimeWeek": "88.81%",
+    "uptimeMonth": "97.42%",
+    "uptimeYear": "99.54%",
+    "time": 713,
+    "timeDay": 0,
+    "timeWeek": 785,
+    "timeMonth": 822,
+    "timeYear": 667,
     "dailyMinutesDown": {
       "2025-11-18": 85,
       "2025-12-28": 416,
@@ -28,7 +28,9 @@
       "2026-02-25": 19,
       "2026-02-26": 47,
       "2026-05-16": 25,
-      "2026-05-19": 66
+      "2026-05-19": 66,
+      "2026-08-10": 51,
+      "2026-08-09": 1078
     }
   }
 ]
